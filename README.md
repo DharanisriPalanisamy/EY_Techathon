@@ -108,7 +108,7 @@ Madhavan S
 
 Srinithi S
 
-Domain: Electronics and Communication Engineering
+**Domain:** Electronics and Communication Engineering
 
 **Institute:** **PSG Institute of Technology and Applied Research**
 
