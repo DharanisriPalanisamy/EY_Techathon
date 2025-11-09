@@ -78,7 +78,7 @@ AI Alerts and Auto Scheduling
       ↓  
 RCA/CAPA Feedback to Manufacturing
 
-**Future Scope**:
+**Future Scope:**
 
 Integrate real-time IoT sensor data using OBD-II or CAN bus.
 
@@ -112,6 +112,6 @@ Domain: Electronics and Communication Engineering
 
 Institute: PSG Institute of Technologgy and Applied Research
 
-##License
+**License:**
 
 This project is for academic and educational use only.
