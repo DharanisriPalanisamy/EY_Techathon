@@ -88,6 +88,10 @@ Add ML-based failure prediction models.
 
 Integrate voice assistant with real API (Twilio or Alexa SDK).
 
+Notebook Link
+
+[Click here to open the notebook](https://github.com/DharanisriPalanisamy/EY_Techathon/blob/main/ey.ipynb)
+
 **Team Information:**
 
 Team Name: Cogniflow
@@ -107,3 +111,6 @@ Srinithi S
 Domain: Electronics and Communication Engineering
 
 Institute: PSG Institute of Technologgy and Applied Research
+**License**
+
+This project is for academic and educational use only.
