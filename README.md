@@ -9,12 +9,16 @@ The solution uses an Agentic AI framework, where multiple AI agents work togethe
 It aims to reduce unplanned breakdowns, improve customer satisfaction, and create a continuous feedback loop between the service and manufacturing teams.
 
 System Architecture:
-
 The system is built around a Master Agent that coordinates the following worker agents:
+
 Data Analysis Agent          – Processes real-time sensor data and maintenance logs.
+
 Diagnosis Agent              – Detects anomalies and predicts fault types.
+
 Customer Engagement Agent    – Sends alerts through chatbot or voice assistant.
+
 Scheduling Agent             – Books or suggests service appointments automatically.
+
 Manufacturing Insights Agent – Analyses recurring faults and provides RCA/CAPA feedback to improve product design.
 
 Tech Stack:
