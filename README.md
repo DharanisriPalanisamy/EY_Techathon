@@ -1,7 +1,7 @@
 # EY_Techathon
-**Agentic AI for Predictive Vehicle Maintenance**
-
 **EY Techathon 6.0  Challenge 3: Autonomous Predictive Maintenance and Proactive Service Scheduling**
+
+**Agentic AI for Predictive Vehicle Maintenance**
 
 **Project Overview:**
 
