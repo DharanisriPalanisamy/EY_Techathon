@@ -1,7 +1,7 @@
 # EY_Techathon
 **Agentic AI for Predictive Vehicle Maintenance**
 
-**EY Techathon 6.0 — Challenge 3: Autonomous Predictive Maintenance and Proactive Service Scheduling**
+**EY Techathon 6.0  Challenge 3: Autonomous Predictive Maintenance and Proactive Service Scheduling**
 
 **Project Overview:**
 
@@ -19,7 +19,7 @@ The system is built around a Master Agent that coordinates the following worker 
 
 **Customer Engagement Agent**    – Sends alerts through chatbot or voice assistant.
 
-**Scheduling Agent**            – Books or suggests service appointments automatically.
+**Scheduling Agent**             – Books or suggests service appointments automatically.
 
 **Manufacturing Insights Agent** – Analyses recurring faults and provides RCA/CAPA feedback to improve product design.
 
@@ -34,17 +34,17 @@ The system is built around a Master Agent that coordinates the following worker 
 
 **Key Features:**
 
-Data-driven fault prediction using dynamic thresholds.
+Data driven fault prediction using dynamic thresholds.
 
-Identification of multiple fault types such as battery, motor, oil, brake, and suspension issues.
+Identification of multiple fault types such as **battery, motor, oil, brake, and suspension issues.**
 
 Health score calculation and severity-based classification.
 
-AI-based voice and text alerts for vehicle owners.
+AI-based **voice and text alerts** for vehicle owners.
 
-Automatic service slot generation for critical faults.
+**Automatic service slot** generation for critical faults.
 
-Root Cause Analysis (RCA) and CAPA feedback loop to manufacturing.
+Root Cause Analysis (RCA) and CAPA **feedback loop** to manufacturing.
 
 **Sample Results:**
 
@@ -94,7 +94,7 @@ Integrate voice assistant with real API (Twilio or Alexa SDK).
 
 **Team Information:**
 
-Team Name: Cogniflow
+**Team Name: Cogniflow**
 
 Members: 
 
@@ -110,7 +110,7 @@ Srinithi S
 
 Domain: Electronics and Communication Engineering
 
-Institute: PSG Institute of Technologgy and Applied Research
+Institute: **PSG Institute of Technology and Applied Research**
 
 **License:**
 
