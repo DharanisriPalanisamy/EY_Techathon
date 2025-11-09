@@ -96,7 +96,7 @@ Integrate voice assistant with real API (Twilio or Alexa SDK).
 
 **Team Name: Cogniflow**
 
-Members: 
+**Members:** 
 
 Dharani Sri P
 
@@ -110,7 +110,7 @@ Srinithi S
 
 Domain: Electronics and Communication Engineering
 
-Institute: **PSG Institute of Technology and Applied Research**
+**Institute:** **PSG Institute of Technology and Applied Research**
 
 **License:**
 
